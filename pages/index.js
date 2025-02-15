@@ -13,7 +13,7 @@ export default function Home({ story }) {
   return (
     <div>
       <Head>
-        <title>Este es el index de Next APP</title>
+        <title>Este el maldito titulo NextJS</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <StoryblokComponent blok={story.content} />
